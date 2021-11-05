@@ -99,7 +99,7 @@ function buildCharts(sample) {
         marker: {
           size: values,
           color: values,
-          colorscale: "Viridis"
+          colorscale: "Inferno"
         }
       }];
   
