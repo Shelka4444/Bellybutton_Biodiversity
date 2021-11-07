@@ -12,12 +12,15 @@ body {
 
 #Box1 {
     background-color: #808080;
+    text-shadow: 1px 1px black;
 }
 
 #sample-metadata {
     background-color: #808080;
+    text-shadow: 1px 1px black;
 }
 
 #selDataset {
     background-color: #808080;
+    text-shadow: 1px 1px black;
 }
