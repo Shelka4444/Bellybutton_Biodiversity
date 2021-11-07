@@ -2,6 +2,11 @@ body {
     color: #ccffcc
 }
 
+div {
+    background-color: #808080
+        
+}
+
 .jumbotron {
     background-image: url("../Static/background.jpg");
     background-size: 100% 100%;
