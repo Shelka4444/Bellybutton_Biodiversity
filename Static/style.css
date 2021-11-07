@@ -1,5 +1,8 @@
-body {
-    color: #ccffcc
+
+
+h1 {
+  color: #ccffcc;
+  text-shadow: 2px 2px 4px #000000;
 }
 
 .jumbotron {
